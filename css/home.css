@@ -1,0 +1,162 @@
+body{
+  height: 100%;
+  width: 100%;
+}
+
+.main-content{
+  background-color: #87509C;
+  height: 100%;
+  width: 100%;
+  padding: 3em;
+}
+
+.nav a {
+    color:  #fff;
+  }
+
+.nav a:hover {
+    color: #000;
+  }
+
+.navbar-nav {
+  font-size: 20px;
+}
+
+.text{
+  text-align: center;
+  padding: 7em;
+  color: #fff;
+}
+
+.about{
+  background-color: #17C2A4;
+  height: 650px;
+}
+
+.main-about{
+  text-align: center;
+  padding: 4em;
+  color: #fff;
+}
+.text-p{
+  font-size: 24px;
+}
+
+.fa-flag{
+  color: #DF7F7F;
+  font-size: 8em;
+}
+.fa-flag:hover{
+  color:#fff;
+}
+
+.fa-pencil{
+  color: #E7EA2F;
+  font-size: 8em;
+}
+.fa-pencil:hover{
+  color: #fff;
+}
+
+.fa-cogs{
+  color: #3C3CC2;
+  font-size: 8em;
+
+}
+.fa-cogs:hover{
+  color: #fff;
+}
+
+.fa-rocket{
+  color: #B70B0B;
+  font-size: 8em;
+
+}
+.fa-rocket:hover{
+  color: #fff;
+}
+
+h3{
+  color: #fff;
+}
+
+.para{
+  color: #fff;
+}
+.work{
+   height: 750px;
+   background-color: #E7F1F8;
+}
+.main-work{
+  text-align: center;
+  padding: 4em;
+}
+.img:hover{
+  color: #fff;
+}
+.button-view{
+  text-align: center;
+}
+
+.portfolio{
+  background-color: #ffdd99;
+  height: 70em;
+}
+.main-portfolio{
+  text-align: center;
+  padding: 4em 4em 2em 4em;
+}
+
+.btn-width{
+  padding: 0.5em 2em 0.5em 2em;
+  color: #000;
+  font-weight: 600;
+}
+
+.ma{
+  text-align: center;
+  color: #EBC985;
+  /*margin-top: -3em;*/
+}
+
+.peaple{
+  background-color: #D74680;
+  height: 700px;
+}
+.main-peaple{
+  margin-top: -1.4em;
+  text-align: center;
+  padding: 6em;
+  color: #fff;
+}
+
+/*.another{
+  text-align:;
+  margin: -2em;
+}*/
+.contect{
+  background-color: #3C5499;
+  height: 750px;
+}
+
+.main-contect{
+   margin-top: -1.4em;
+  text-align: center;
+  padding: 6em;
+  color: #fff;
+  /*font-weight: t: 700;*/
+  /*letter-spacing: 0.1em;*/
+}
+.footer{
+  background-color: #344B8E;
+  height: 100px;
+}
+
+
+.main-footer{
+   margin-top: -1.4em;
+  /*text-align: center;*/
+  /*padding: 6em;*/
+  color: #fff;}
+/*footer #344B8E*/
+/*contect-in 273A71*/
